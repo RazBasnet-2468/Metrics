@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\RND\\Metrics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EF1B2E8-F14A-473B-8E88-FE8B1A15E3C0}|Metrics.csproj|d:\\rnd\\metrics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EF1B2E8-F14A-473B-8E88-FE8B1A15E3C0}|Metrics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EF1B2E8-F14A-473B-8E88-FE8B1A15E3C0}|Metrics.csproj|d:\\rnd\\metrics\\controllers\\metricsdisplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1B2E8-F14A-473B-8E88-FE8B1A15E3C0}|Metrics.csproj|solutionrelative:controllers\\metricsdisplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\RND\\Metrics\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\RND\\Metrics\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAowBYAAAAJAAAA",
+              "Title": "MetricsDisplayController.cs",
+              "DocumentMoniker": "D:\\RND\\Metrics\\Controllers\\MetricsDisplayController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MetricsDisplayController.cs",
+              "ToolTip": "D:\\RND\\Metrics\\Controllers\\MetricsDisplayController.cs",
+              "RelativeToolTip": "Controllers\\MetricsDisplayController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T16:04:19.037Z",
+              "WhenOpened": "2024-09-08T05:47:59.755Z",
               "EditorCaption": ""
             }
           ]
